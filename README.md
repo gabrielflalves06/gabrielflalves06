@@ -18,8 +18,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffc300&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Lazaro+Ferreira+Alves;I'm+20+years+old;I+am+from+Brazil,+São+Paulo+-+SP;I+study+systems+analysis+and+development+at+Senac;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&lines=HELLO%2C+my+name+is+Gabriel+Lazaro+Ferreira+Alves;I'm+20+years+old;I'm+from+Brazil%2CS%C3%A3o+Paulo+-+SP;I+study+systems+analysis+and+development+at+Centro+Universit%C3%A1rio+Senac;Be+Welcome!)](https://git.io/typing-svg)
 <br clear="both">
 
 <h3 align="center">🛠 Language and tools</h3>
@@ -54,8 +53,8 @@
 ###
 
 <div align="center" direction="row">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielflalves06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielflalves06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="250" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielflalves06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="225" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielflalves06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="225" alt="languages graph"  />
 </div>
 
 
